@@ -38,4 +38,5 @@ void setupResourcesList() {
   resources.add(new Resource("Meat", 0));
   resources.add(new Resource("Wool", 0));
   resources.add(new Resource("Food", 0));
+  resources.add(new Resource("Money", 0));
 }
